@@ -1,0 +1,5 @@
+# reddit-background configuration file
+subreddit: EarthPorn
+sort: top
+period: 1233
+amount: 20
