@@ -1,5 +1,6 @@
 # reddit-background configuration file
 subreddit: EarthPorn
 sort: top
-period: 1233
+period: hour
 amount: 20
+output: ./backgrounds/
